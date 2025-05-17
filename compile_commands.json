@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Iinclude",
+      "-std=c11",
+      "-Werror",
+      "-pedantic",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/joseph/code/fnvm",
+    "file": "/home/joseph/code/fnvm/src/main.c",
+    "output": "/home/joseph/code/fnvm/build/main.o"
+  }
+]
